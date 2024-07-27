@@ -11,7 +11,7 @@ const Navigation=()=>{
         <li href="#">About</li>
         <li href="#">Contact</li>
       </ul>
-      <button>login</button>
+      <button>Login</button>
     </nav>
     </div>
     )
